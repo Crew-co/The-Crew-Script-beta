@@ -1,2 +1,2 @@
 #Run the Install Program First
-This is Not Ready Yet sod ont download
+This is now ready for beta testers
